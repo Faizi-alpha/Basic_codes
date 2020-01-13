@@ -17,7 +17,7 @@ public class Arrow_Pattern {
                 System.out.println();
             }
             //from here lower part of pattern is to be coded..
-            //Its uncomplete.
+            //Its incomplete.
         }
     }
 }
