@@ -3,16 +3,14 @@
 More Codes are Available in src Folder.
 
 These are just as refrence for basic understanding of how code is written in java.
-I will be updating this repository time to time providing more concepts of java with codes and comments for better understanding
+I will be updating this repository time to time providing more concepts of java with codes and comments for better understanding.
 
-Update includes :-
+Basic Concepts like Inteface,Abstract Class , Constructor Overloading , Method Overloading ,Method Overriding , Use of Super Keyword has been covered. 
 
-#Static mehthods in Java
-#Inner classes in java with types
-#Use of finalize keyword
-#Use of Super keyword
-and More
+Nested or Inner Classes codes  and Nested Interface codes are also available.
 
-Stay tuned as update will be available soon.
+More to come .
+
+Stay Tuned.
 
 Thank You.
