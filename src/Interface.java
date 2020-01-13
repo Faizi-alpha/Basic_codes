@@ -7,7 +7,7 @@ interface erp             // Interfaces are syntactically similar to classes but
     // instance variable like example int i cannot be inside interface.
     // but varibles that contains constant values can be present inside interface.
 
-    int i=8; // Valid as it has a constant value.l
+    int i=8; // Valid as it has a constant value.
 }
 
 
